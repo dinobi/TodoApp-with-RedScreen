@@ -1,0 +1,21 @@
+PATH
+  remote: ../RedScreen
+  specs:
+    red_screen (0.0.1)
+      erubis
+      rack
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    erubis (2.7.0)
+    rack (2.0.5)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  red_screen!
+
+BUNDLED WITH
+   1.16.0
